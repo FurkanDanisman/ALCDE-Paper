@@ -1,10 +1,6 @@
 ## Adjusted Log-Concave Density Estimation (ALCDE)
 
 This study investigates the Expectation-Maximization (EM) and log-concave algorithms, focusing on their application in estimating the density of grouped data using a non-parametric approach, an area that remains underexplored in the literature. We aim to contribute to statistical knowledge and introduce a novel proof that offers deeper insights into the behavior of the EM algorithm.
-
-## Table of Contents
-- [Abstract](#Abstract)
-- [Codes](#Codes)
   
 ## Abstract
 
