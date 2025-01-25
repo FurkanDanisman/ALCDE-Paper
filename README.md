@@ -8,7 +8,7 @@ In some situations, data is collected under systematical and technical constrain
 
 ## Codes
 
-- [Functions](https://github.com/FurkanDanisman/ALCDE-Paper/Functions/Functions-RA-2.R)
+- [Functions](https://github.com/FurkanDanisman/ALCDE-Paper/blob/main/Functions/Functions-RA-2.R)
 - [Mean Recovery](https://github.com/FurkanDanisman/ALCDE-Paper/blob/main/Mean_Recovery/Mean_Recovery.R)
 - [Mean Recovery-2](https://github.com/FurkanDanisman/ALCDE-Paper/blob/main/Mean_Recovery/abs_mu_diff_gw.R)
 - [Recovery Comparison](https://github.com/FurkanDanisman/ALCDE-Paper/blob/main/Recovery_Comparison/Recovery-Equation.R)
